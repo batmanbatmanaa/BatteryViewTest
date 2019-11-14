@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@mipmap/green01" android:duration="100" />
+    <item android:drawable="@mipmap/green02" android:duration="100" />
+    <item android:drawable="@mipmap/green03" android:duration="100" />
+    <item android:drawable="@mipmap/green04" android:duration="100" />
+    <item android:drawable="@mipmap/green05" android:duration="100" />
+    <item android:drawable="@mipmap/green06" android:duration="100" />
+    <item android:drawable="@mipmap/green07" android:duration="100" />
+    <item android:drawable="@mipmap/green08" android:duration="100" />
+    <item android:drawable="@mipmap/green09" android:duration="100" />
+    <item android:drawable="@mipmap/green10" android:duration="100" />
+    <item android:drawable="@mipmap/green11" android:duration="100" />
+    <item android:drawable="@mipmap/green12" android:duration="100" />
+    <item android:drawable="@mipmap/green13" android:duration="100" />
+    <item android:drawable="@mipmap/green14" android:duration="100" />
+    <item android:drawable="@mipmap/green15" android:duration="100" />
+    <item android:drawable="@mipmap/green16" android:duration="100" />
+    <item android:drawable="@mipmap/green17" android:duration="100" />
+    <item android:drawable="@mipmap/green18" android:duration="100" />
+    <item android:drawable="@mipmap/green19" android:duration="100" />
+    <item android:drawable="@mipmap/green20" android:duration="100" />
+    <item android:drawable="@mipmap/green21" android:duration="100" />
+    <item android:drawable="@mipmap/green22" android:duration="100" />
+    <item android:drawable="@mipmap/green23" android:duration="100" />
+    <item android:drawable="@mipmap/green24" android:duration="100" />
+    <item android:drawable="@mipmap/green25" android:duration="100" />
+    <item android:drawable="@mipmap/green26" android:duration="100" />
+    </animation-list>

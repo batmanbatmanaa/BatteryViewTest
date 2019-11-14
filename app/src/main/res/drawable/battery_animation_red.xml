@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@mipmap/red01" android:duration="100" />
+    <item android:drawable="@mipmap/red02" android:duration="100" />
+    <item android:drawable="@mipmap/red03" android:duration="100" />
+    <item android:drawable="@mipmap/red04" android:duration="100" />
+    <item android:drawable="@mipmap/red05" android:duration="100" />
+    <item android:drawable="@mipmap/red06" android:duration="100" />
+    <item android:drawable="@mipmap/red07" android:duration="100" />
+    <item android:drawable="@mipmap/red08" android:duration="100" />
+    <item android:drawable="@mipmap/red09" android:duration="100" />
+    <item android:drawable="@mipmap/red10" android:duration="100" />
+    <item android:drawable="@mipmap/red11" android:duration="100" />
+    <item android:drawable="@mipmap/red12" android:duration="100" />
+    <item android:drawable="@mipmap/red13" android:duration="100" />
+    <item android:drawable="@mipmap/red14" android:duration="100" />
+    <item android:drawable="@mipmap/red15" android:duration="100" />
+    <item android:drawable="@mipmap/red16" android:duration="100" />
+    <item android:drawable="@mipmap/red17" android:duration="100" />
+    <item android:drawable="@mipmap/red18" android:duration="100" />
+    <item android:drawable="@mipmap/red19" android:duration="100" />
+    <item android:drawable="@mipmap/red20" android:duration="100" />
+    <item android:drawable="@mipmap/red21" android:duration="100" />
+    <item android:drawable="@mipmap/red22" android:duration="100" />
+    <item android:drawable="@mipmap/red23" android:duration="100" />
+    <item android:drawable="@mipmap/red24" android:duration="100" />
+    <item android:drawable="@mipmap/red25" android:duration="100" />
+    <item android:drawable="@mipmap/red26" android:duration="100" />
+</animation-list>
